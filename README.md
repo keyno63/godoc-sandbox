@@ -32,3 +32,8 @@ godoc
 port はデフォルトでは 6060, project 名は今回 `godoc-sandbox` です。
 
 ポート指定などもできます。詳しくはヘルプ（godoc --help）を参照。
+
+## License
+
+This repository is MIT License.  
+see [License](./LICENSE) file.
